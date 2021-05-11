@@ -27,11 +27,11 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=000000)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20idea)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=ffffff)
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij%20idea&logoColor=007acc)
 - 🖥 &nbsp;
   ![Fimga](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
+  ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp&logoColor=ff0000)
 
 
 <br/>
@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João%20Lima-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jpalvesl-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/jpalvesl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João%20Lima-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jpalvesl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jpalvesl-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jpalvesl101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jpalvesl101@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
