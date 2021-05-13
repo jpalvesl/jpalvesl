@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineer at Instituto Federal da Paraíba.
-- 🌱 &nbsp; Learning more about Design patterns, Data Sciente and game development.
+- 🌱 &nbsp; Learning more about Design patterns, Web development and game development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
