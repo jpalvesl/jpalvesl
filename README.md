@@ -59,9 +59,5 @@ Hi my name is João Pedro, I'm 22 years old and i'm a student of **Computer Enge
 <a href="https://www.linkedin.com/in/jpalvesl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João%20Lima-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jpalvesl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jpalvesl-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jpalvesl101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jpalvesl101@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<img alt="Discord" src="https://img.shields.io/badge/Discord-João%20Lima%230531-5865F2?style=flat-square&logo=Discord&logoColor=5865F2"></a>
+<img alt="Discord" src="https://img.shields.io/badge/Discord-João%20Lima%230531-5865F2?style=flat-square&logo=Discord&logoColor=5865F2">
 </p>
-
-
-
-
