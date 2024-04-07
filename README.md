@@ -1,6 +1,6 @@
 <h2> Hey there! I'm João Pedro.</h2>
 
-Hi my name is João Pedro, I'm 23 years old and i'm a student of **Computer Engeneer** at Federal Institute of Paraíba (**IFPB**) in Brazil. I am currently member of Laboratório de Desenvolvimento de Sistemas (**LADS**) working like a full stack developer with React and Spring Boot and more recently with Clojure.
+Hi my name is João Pedro, I'm 24 years old and i'm a student of **Computer Engeneer** at Federal Institute of Paraíba (**IFPB**) in Brazil. I am currently member of Laboratório de Desenvolvimento de Sistemas (**LADS**) working like a full stack developer with React and Spring Boot and more recently with Clojure.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
