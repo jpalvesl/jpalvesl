@@ -1,11 +1,12 @@
 <h2> Hey there! I'm João Pedro.</h2>
 
-Hi my name is João Pedro, I'm 24 years old and i'm a student of **Computer Engeneer** at Federal Institute of Paraíba (**IFPB**) in Brazil. I am currently member of Laboratório de Desenvolvimento de Sistemas (**LADS**) working like a full stack developer with React and Spring Boot and more recently with Clojure.
+Hi my name is João Pedro, I'm 26 years old and i hold a Bachelor's degree in **Computer Engeneer** from Federal Institute of Paraíba (**IFPB**) in Brazil. I am one of the first members of the **IDE.IA** laboratory.
+Nowdays i'm working like a full stack developer with React, Spring Boot, Clojure and PL/SQL.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks and building systems.
-- 🎓 &nbsp; Studying Computer Engineer at Instituto Federal da Paraíba.
+- 🎓 &nbsp; Bachelor's degree in computer engineering.
 - 🌱 &nbsp; Learning more about Design patterns, Web development and game development.
 
 
@@ -48,10 +49,10 @@ Hi my name is João Pedro, I'm 24 years old and i'm a student of **Computer Enge
 
 <br/>
 
-<a href="https://github.com/jpalvesl">
+<!-- <a href="https://github.com/jpalvesl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpalvesl&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalvesl&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
